@@ -3,3 +3,5 @@
 [中文](./README_CN.md)
 
 Basic Algorithms Library of Machine Learning Based on PHP
+
+[NaiveBayes](NaiveBayes.php)
